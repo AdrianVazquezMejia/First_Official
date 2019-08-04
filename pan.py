@@ -37,7 +37,7 @@
 n=list('989898989')
 cantidad=0
 
-
+h=0
 def is_x_in_n(n,x):
     n=n[:]
     l=len(n)
