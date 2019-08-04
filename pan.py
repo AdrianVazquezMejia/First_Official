@@ -20,7 +20,7 @@
 
 
 
-#Thank you again
+#Thank you 
 
 #PD: I live in venezuela, and I´m living a really hard situation (If you want to verify just comunicate with me), 
 #I almost dont have money to buy food, I study in a difficult way,
